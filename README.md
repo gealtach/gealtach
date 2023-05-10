@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![16683378-5794854.jpg](https://i.postimg.cc/fTtN2BLv/16683378-5794854.jpg)](https://postimg.cc/Lnpwhkjq)
+[![16683378-5794854.jpg](https://i.postimg.cc/wMk00KNB/16683378-5794854.jpg)](https://postimg.cc/dZL2Vx4M)
 <!--
 **gealtach/gealtach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
