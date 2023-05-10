@@ -14,6 +14,9 @@
     <a href="mailto:cleivaj93@gmail.com">
      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Cesar Leiva Gmail" height="50" width="50" />
      </a>
+    <a href="https://github.com/gealtach">
+     <img align="center" src="https://icons8.com/icon/3tC9EQumUAuq/github" alt="Cesar Leiva GitHub" height="50" width="50" />
+     </a>
 <div/>
 <br/>
 <p><label>cleivaj93@gmail.com</label></p>
