@@ -33,3 +33,13 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <hr/>
 <br/>
+<hr/>
+<h2>About</h2>
+<hr/>
+
+<div>
+  <p>
+    Hi, I'm Cesar, I'm 30 years old, I studied mining and I've work all my life in construction and driving cars or motorbike in delivery, I have good skills at math and logic and I used it to affront my studies at henry and finding love in coding to solve problems applying logic and making real what is in my mind.
+We can be in touch on Linkedin or email cleivaj93@gmail.com        
+  </p>
+</div>
