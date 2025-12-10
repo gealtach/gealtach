@@ -11,12 +11,12 @@
     <a href="https://api.whatsapp.com/send/?phone=56923625470&text&app_absent=0" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me/+undefined56923625470?text=Hola%20Alejandro,%20soy%20" height="40" width="40" />
     </a>
-    <a href="mailto:cleivaj93@gmail.com">
+    <a href="mailto:cleiva.dev@gmail.com">
      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Cesar Leiva Gmail" height="50" width="50" />
      </a>
 <div/>
 <br/>
-<p><label>cleivaj93@gmail.com</label></p>
+<p><label>cleiva.dev@gmail.com</label></p>
 <hr/>
     
  <h2 >Skills: </h2>
@@ -39,7 +39,7 @@
 
 <div>
   <p>
-    Hi, I'm Cesar, I'm 30 years old, I studied mining and I've work all my life in construction and driving cars or motorbike in delivery, I have good skills at math and logic and I used it to affront my studies at henry and finding love in coding to solve problems applying logic and making real what is in my mind.
-We can be in touch on Linkedin or email cleivaj93@gmail.com        
+    Hi, I'm Cesar, I'm 32 years old, I studied mining and I've work all my life in construction and driving cars or motorbike in delivery, I have good skills at math and logic and I used it to affront my studies at henry and finding love in coding to solve problems applying logic and making real what is in my mind.
+We can be in touch on Linkedin or email cleiva.dev@gmail.com        
   </p>
 </div>
