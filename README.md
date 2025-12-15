@@ -6,13 +6,6 @@
     <a href="https://github.com/gealtach">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gealtach&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Cleiva's GitHub stats" />
   </a>
-      <a href="https://github.com/gealtach">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gealtach&theme=midnight-purple&hide_border=false" alt="Cleiva's GitHub stats" />
-  </a>
-  ![gealtach's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gealtach&theme=midnight-purple&hide_border=false)
-  ![gealtach's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gealtach&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
-![gealtach's Stats](https://github-readme-stats.vercel.app/api?username=gealtach&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-![gealtach's Streak]()
 <h3>  You can find me at: </h3>
 <br>
 <div>
