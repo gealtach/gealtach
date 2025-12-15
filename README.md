@@ -1,7 +1,17 @@
-[![16683378-5794854.jpg](https://i.postimg.cc/wMk00KNB/16683378-5794854.jpg)](https://postimg.cc/dZL2Vx4M)
 
 <h1> Hi there, I'm Cesar Leiva. 👋 </h1>
-
+  <a href="https://github.com/gealtach">
+    <img src="https://github-readme-stats.vercel.app/api?username=gealtach&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="Cleiva's GitHub stats" />
+  </a>
+    <a href="https://github.com/gealtach">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gealtach&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Cleiva's GitHub stats" />
+  </a>
+      <a href="https://github.com/gealtach">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gealtach&theme=midnight-purple&hide_border=false" alt="Cleiva's GitHub stats" />
+  </a>
+  ![gealtach's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gealtach&theme=midnight-purple&hide_border=false)
+  ![gealtach's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gealtach&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+![gealtach's Stats](https://github-readme-stats.vercel.app/api?username=gealtach&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 <h3>  You can find me at: </h3>
 <br>
 <div>
