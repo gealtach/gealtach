@@ -22,14 +22,5 @@
 <br/>
 <p><label>cleiva.dev@gmail.com</label></p>
 <hr/>
-<br/>
-<hr/>
-<h2>About</h2>
-<hr/>
 
-<div>
-  <p>
-    Hi, I'm Cesar, I'm 32 years old, I studied mining and I've work all my life in construction and driving cars or motorbike in delivery, I have good skills at math and logic and I used it to affront my studies at henry and finding love in coding to solve problems applying logic and making real what is in my mind.
-We can be in touch on Linkedin or email cleiva.dev@gmail.com        
-  </p>
 </div>
